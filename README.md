@@ -16,7 +16,7 @@ DSA_AnlDadosPython
 ![Skills](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Skills](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegormartins84)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegormartins84)](https://github.com/Diegormartins84/github-readme-stats)
 
 <!--
 **Diegormartins84/Diegormartins84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
