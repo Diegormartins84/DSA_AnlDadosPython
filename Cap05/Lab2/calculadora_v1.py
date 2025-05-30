@@ -26,3 +26,4 @@ elif operacao == 4:
     print(num1, '/', num2, '=', resultado)
 else:
     print('Operação inválida!')
+
