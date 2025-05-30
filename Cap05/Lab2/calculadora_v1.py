@@ -22,7 +22,7 @@ elif operacao == 3:
     resultado = num1 * num2
     print(num1, '*', num2, '=', resultado)
 elif operacao == 4:
-    resultado = num1 // num2
+    resultado = num1 / num2
     print(num1, '/', num2, '=', resultado)
 else:
     print('Operação inválida!')
